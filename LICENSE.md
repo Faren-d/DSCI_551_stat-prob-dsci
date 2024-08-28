@@ -2,25 +2,25 @@
 
 ## Instructional Material
 
-All instructional material in this repository is made available under the **Attribution 4.0 International** ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). 
+All instructional material in this repository is made available under the **Attribution 4.0 International** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). 
 
-This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by/4.0/legalcode). 
 
 You are free to:
-* **Share** — copy and redistribute the material in any medium or format
-* **Adapt** — remix, transform, and build upon the material
+* **Share** -- copy and redistribute the material in any medium or format
+* **Adapt** -- remix, transform, and build upon the material
+    for any purpose, even commercially.
+
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
+
 Under the following terms:
 
-- **Attribution** — You must give appropriate credit (mentioning that your work is derived from work that is Copyrighted), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **Attribution** -- You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Vincenzo Coia, Mike Gelbart, Aaron Berk, G. Alexi Rodríguez-Arelis, and Katie Burak), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-- **NonCommercial** - You may not use the material for commercial purposes.
-
-- **ShareAlike** - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+- **No additional restrictions** -- You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 Notices:
 
@@ -34,7 +34,7 @@ Except where otherwise noted, the example programs and other software provided i
 
 MIT License
 
-© 2024 Vincent Liu, G. Alexi Rodriguez-Arelis
+© 2024 Vincenzo Coia, Mike Gelbart, Aaron Berk, Alexi Rodríguez-Arelis, Katie Burak, and Vincent Liu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
