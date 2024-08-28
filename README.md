@@ -46,12 +46,12 @@ This course occurs during **Block 1** in the 2024/25 school year. The course not
 |:-------------------------------------------------------------:|:-------------------:|:-------------------:|
 | Depicting Uncertainty | [`lecture1` notes] | [Part 1: Core Probability](https://chrispiech.github.io/probabilityForComputerScientists/en/part1/probability/)|
 | Parametric Families | [`lecture2` notes] |  [Part 2: Random Variables](https://chrispiech.github.io/probabilityForComputerScientists/en/part2/rvs/)|
-| Joint Probability | [`lecture3` notes] | [Part 3: Probabilistic Models](https://chrispiech.github.io/probabilityForComputerScientists/en/part3/joint/), [Chapter 5.1](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf), [Covariance and correlation (video)](https://www.youtube.com/watch?v=KDw3hC2YNFc), [How would you explain covariance ...](https://stats.stackexchange.com/questions/18058/how-would-you-explain-covariance-to-someone-who-understands-only-the-mean) |
-| Conditional Probabilities | [`lecture4` notes] | [Part 3: Probabilistic Models](https://chrispiech.github.io/probabilityForComputerScientists/en/part3/joint/), [Chapter 5.3](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf)|
-| Continuous Distributions | [`lecture5` notes] |[Chapter 4](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf) |
+| Joint Probability | [TBA] | [Part 3: Probabilistic Models](https://chrispiech.github.io/probabilityForComputerScientists/en/part3/joint/), [Chapter 5.1](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf), [Covariance and correlation (video)](https://www.youtube.com/watch?v=KDw3hC2YNFc), [How would you explain covariance ...](https://stats.stackexchange.com/questions/18058/how-would-you-explain-covariance-to-someone-who-understands-only-the-mean) |
+| Conditional Probabilities | [TBA] | [Part 3: Probabilistic Models](https://chrispiech.github.io/probabilityForComputerScientists/en/part3/joint/), [Chapter 5.3](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf)|
+| Continuous Distributions | [TBA] |[Chapter 4](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf) |
 | Common Distribution Families and Conditioning | [`lecture6` notes] |[Part 2: Random Variables](https://chrispiech.github.io/probabilityForComputerScientists/en/part2/rvs/)|
-| Maximum Likelihood Estimation | [`lecture7` notes]| [Beyond Multiple Linear Regression, sections 2.1 to 2.4](https://bookdown.org/roback/bookdown-BeyondMLR/ch-beyondmost.html#sex_unconditional_model), [Chapter 7.1 & 7.2](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf) |
-| Simulation and Empirical Distributions | [`lecture8` notes] |[Part 5: Machine Learning](https://chrispiech.github.io/probabilityForComputerScientists/en/part5/parameter_estimation/), [Chapter 9: Applications to Computing](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf)|
+| Maximum Likelihood Estimation | [TBA]| [Beyond Multiple Linear Regression, sections 2.1 to 2.4](https://bookdown.org/roback/bookdown-BeyondMLR/ch-beyondmost.html#sex_unconditional_model), [Chapter 7.1 & 7.2](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf) |
+| Simulation and Empirical Distributions | [TBA] |[Part 5: Machine Learning](https://chrispiech.github.io/probabilityForComputerScientists/en/part5/parameter_estimation/), [Chapter 9: Applications to Computing](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf)|
 
 ## Cheat sheet
 
