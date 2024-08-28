@@ -1,0 +1,12 @@
+.DS_Store
+labs/.ipynb_checkpoints/
+.Rhistory
+.Rproj.user
+*.ipynb_checkpoints
+.nbgrader.log
+gradebook.db
+__pycatch__
+/.Rprofile
+/.venv/
+_build/html/*
+_build/jupyter_execute/*
