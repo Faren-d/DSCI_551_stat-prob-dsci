@@ -23,7 +23,6 @@ By the end of the course, students are expected to:
 - Connect conditional distributions to the notion of supervised learning.
 - Explain the concept of maximum likelihood estimation.
 - Identify the units of various quantities such as mean/variance/density for continuous distributions.
-
 - Simulate sample generation from probability distributions, and interpret the results.
 
 ## Teaching Team
