@@ -40,12 +40,12 @@ By the end of the course, students are expected to:
 
 ## Lecture Topics
 
-This course occurs during **Block 1** in the 2024/25 school year. The course notes can be accessed [**here**].
+This course occurs during **Block 1** in the 2024/25 school year. The course notes can be accessed [**here**](https://pages.github.ubc.ca/mds-2024-25/DSCI_551_stat-prob-dsci_students/).
 
 | Lecture Topic/Notes | Required Readings | Optional Readings |
 |:-------------------------------------------------------------:|:-------------------:|:-------------------:|
-| Depicting Uncertainty | [`lecture1` notes] | [Part 1: Core Probability](https://chrispiech.github.io/probabilityForComputerScientists/en/part1/probability/)|
-| Parametric Families | [`lecture2` notes] |  [Part 2: Random Variables](https://chrispiech.github.io/probabilityForComputerScientists/en/part2/rvs/)|
+| Depicting Uncertainty | [`lecture1` notes](https://pages.github.ubc.ca/mds-2024-25/DSCI_551_stat-prob-dsci_students/notes/01_lecture-uncertainty.html) | [Part 1: Core Probability](https://chrispiech.github.io/probabilityForComputerScientists/en/part1/probability/)|
+| Parametric Families | [`lecture2` notes](https://pages.github.ubc.ca/mds-2024-25/DSCI_551_stat-prob-dsci_students/notes/02_lecture-parametric-families.html) |  [Part 2: Random Variables](https://chrispiech.github.io/probabilityForComputerScientists/en/part2/rvs/)|
 | Joint Probability | [TBA] | [Part 3: Probabilistic Models](https://chrispiech.github.io/probabilityForComputerScientists/en/part3/joint/), [Chapter 5.1](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf), [Covariance and correlation (video)](https://www.youtube.com/watch?v=KDw3hC2YNFc), [How would you explain covariance ...](https://stats.stackexchange.com/questions/18058/how-would-you-explain-covariance-to-someone-who-understands-only-the-mean) |
 | Conditional Probabilities | [TBA] | [Part 3: Probabilistic Models](https://chrispiech.github.io/probabilityForComputerScientists/en/part3/joint/), [Chapter 5.3](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf)|
 | Continuous Distributions | [TBA] |[Chapter 4](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf) |
@@ -55,7 +55,7 @@ This course occurs during **Block 1** in the 2024/25 school year. The course not
 
 ## Cheat sheet
 
-[**Here**] is a cheat sheet we created to summarize the main formulas and concepts covered in DSCI 551.
+[**Here**](https://pages.github.ubc.ca/mds-2024-25/DSCI_551_stat-prob-dsci_students/notes/appendix-prob-cheatsheet.html) is a cheat sheet we created to summarize the main formulas and concepts covered in DSCI 551.
 
 ## Deliverables
 
@@ -136,6 +136,6 @@ The course is built upon previous years' materials developed by previous instruc
 
 ## License
 
-© 2024 Vincenzo Coia, Mike Gelbart, Aaron Berk, Alexi Rodríguez-Arelis, Katie Burak, and Vincent Liu
+© 2024 Vincenzo Coia, Mike Gelbart, Aaron Berk, Alexi Rodríguez-Arelis, Katie Burak, and Vincent Liu.
 
 Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), non-software content licensed under [the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/). See the [license file](LICENSE.md) for more information.
