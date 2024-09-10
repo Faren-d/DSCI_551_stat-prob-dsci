@@ -60,7 +60,7 @@ This course occurs during **Block 1** in the 2024/25 school year. The course not
 
 ## Deliverables
 
-This is an *__*assignment-based *course__*. The following deliverables will determine your course grade:
+This is an **assignment-based course**. The following deliverables will determine your course grade:
 
 | Assessment       | Weight  | 
 | :---:            | :---:   |
